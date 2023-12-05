@@ -1,2 +1,2 @@
-#!!School project!!
-#Not finished yet!
+!!School project!!
+Not finished yet!
