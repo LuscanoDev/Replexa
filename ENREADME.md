@@ -1,4 +1,6 @@
 # Replexa
+[Versão em Português](ENREADME.md)
+
 An attempt to recreate Alexa and other artificial intelligences using Raspberry Pi, GPT, and Python.
 
 ## Installation
