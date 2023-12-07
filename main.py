@@ -31,7 +31,7 @@ audio_playing = False
 stop_audio = False
 
 # Configurar sua chave da API da OpenAI aqui
-openai.api_key = "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"
+openai.api_key = "your_openai_key"
 
 # Configurar o reconhecimento de fala
 recognizer = sr.Recognizer()
