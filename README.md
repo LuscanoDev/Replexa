@@ -1,4 +1,5 @@
 # Replexa
+[English version](ENREADME.md)
 
 Uma tentativa de recriar a Alexa e outras inteligencias artificiais usando o Raspberry Pi, GPT e Python.
 
@@ -19,4 +20,4 @@ Execute o programa rodando ```python main.py``` e aperte o botão de chamar a Re
 ## Notas
 Projeto escolar da minha eletiva, não é recomendado usar em casas reais, a não ser se você quer passar raiva :D
 
-[English version](ENREADME.md)
+
